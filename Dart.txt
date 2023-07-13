@@ -1,0 +1,15 @@
+Dart
+type safe, general purpose programming language
+designed to build fast apps on multiple platforms
+
+Developed by Google to replace JS, introduced in 2011 
+But adopted by Flutter framework 
+
+Compile to multiple targets:
+    ARM64 : iOS android 
+    X86_64 : macOS windows 
+    DART2JS : webBrowsers 
+
+Just in time compilation
+
+Package manager: pub 

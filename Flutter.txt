@@ -1,0 +1,25 @@
+Flutter
+(flutter.dev dartpad.dev dart.dev)
+framework to build apps
+
+
+Some terms: flex hero stack listview scaffold container navigator expanded 
+
+Widgets
+Stateless - ui widget with no dynamic data
+Stateful - 
+
+Scaffold - used to build screens with common ui components like appbar at top, ..
+
+
+----------------
+
+> flutter create appname
+> flutter run
+
+main.dart
+import 'package:flutter/material.dart';
+void main() {
+    runApp(MyApp());
+}
+
